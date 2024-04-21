@@ -12,7 +12,7 @@
 ![1](https://github.com/fetgrigory/1--Credit-Calculator/assets/157891679/332450ef-c054-4faf-9af4-ee8fe61cd910)
 ![2](https://github.com/fetgrigory/1--Credit-Calculator/assets/157891679/6e8e5a97-ea15-4f59-a250-e74d43ed7a53)
 # Управляемое приложение
-
+![3](https://github.com/fetgrigory/1--Credit-Calculator/assets/157891679/d4a6f4e6-b236-416a-a56b-555c3da54f00)
 
 
 # Инструкция по использованию программы:
